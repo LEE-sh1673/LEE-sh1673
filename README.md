@@ -1,16 +1,27 @@
-<h2> Hi, I'm LEE-sh1673! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm LEE-sh1673! <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p><em>CS Student of <a href="#">Konkuk University Glocal Campus</a></em></p>
 
+<ul>
+  <li>I'm currently learning Spring Boot, TDD.</li>
+  <li>I really like COFFEE!</li>
+</ul>
 
-- 👋 Hi, I’m **@LEE-sh1673**
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### A little more about me...  
+
+```javascript
+const thai = {
+  code: [Java, JavaScript, HTML, CSS, Python],
+  tools: [JUnit, Git, Spring]
+}
+```
+
+### Tech Stacks
+
+<p align = "center">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
 <!---
 LEE-sh1673/LEE-sh1673 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

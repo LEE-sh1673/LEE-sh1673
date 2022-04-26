@@ -1,5 +1,5 @@
 <h2> Hi, I'm LEE-sh1673! <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="230">
 
 <p><em>CS Student of <a href="#">Konkuk University Glocal Campus</a></em></p>
 

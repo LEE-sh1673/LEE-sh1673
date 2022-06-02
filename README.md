@@ -18,6 +18,11 @@ const thai = {
 }
 ```
 
+![](https://raw.githubusercontent.com/LEE-sh1673/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/LEE-sh1673/github-stats-transparent/output/generated/languages.svg)
+[![](https://raw.githubusercontent.com/LEE-sh1673/github-profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 ### Tech Stacks
 <p>
   <img src="https://shields.io/badge/-HTML5-E96228?style=for-the-badge&logo=html5&logoColor=ffffff">
@@ -44,9 +49,6 @@ const thai = {
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
-
-![](https://raw.githubusercontent.com/LEE-sh1673/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/LEE-sh1673/github-stats-transparent/output/generated/languages.svg)
 
 <!---
 LEE-sh1673/LEE-sh1673 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

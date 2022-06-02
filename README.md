@@ -45,6 +45,9 @@ const thai = {
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
+![](https://raw.githubusercontent.com/LEE-sh1673/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/LEE-sh1673/github-stats-transparent/output/generated/languages.svg)
+
 <!---
 LEE-sh1673/LEE-sh1673 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

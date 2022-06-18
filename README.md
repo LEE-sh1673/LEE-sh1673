@@ -27,7 +27,7 @@
   <img src="https://shields.io/badge/-MySQL-00618A?style=for-the-badge&logo=MySQL&logoColor=E48E00">
   <br>
   <img src="https://shields.io/badge/-git-F05033?style=for-the-badge&logo=git&logoColor=ffffff">
-  <img src="https://shields.io/badge/-gradle-02303A?style=for-the-badge&logo=gradle&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <br>

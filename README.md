@@ -1,4 +1,4 @@
-<img src="./header.png">
+<img src="./cover.png">
 <p>Hi, I'm LEE-sh1673. <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="50"></p>
 
 <p><em>CS Student of <a href="#">Konkuk University Glocal Campus</a></em></p>
